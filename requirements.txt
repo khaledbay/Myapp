@@ -7,5 +7,6 @@ Flask
 pandas
 Flask_Cors
 tensorflow
+tensorflow-gpu
 joblib
 gunicorn
