@@ -1,3 +1,4 @@
+Python==3.7
 scikit-learn==0.22.2.post1
 silence_tensorflow==1.1.1
 numpy==1.17.4
